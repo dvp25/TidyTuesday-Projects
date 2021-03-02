@@ -76,7 +76,7 @@ georgia_pop_tidy %>%
        caption = "This figure uses TidyTuesday's data from February 16, 2021") 
 ```
 
-![](TidyTuesday-Project-DV---February-21,-2021_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
+![](Figs/unnamed-chunk-3-1.png)<!-- -->
 
 
 ```r
@@ -100,7 +100,7 @@ census_data %>%
        caption = str_c("This figure uses TidyTuesday's data from February 16, 2021\n", "Note: NE stands for Northeast"))
 ```
 
-![](TidyTuesday-Project-DV---February-21,-2021_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![](Figs/unnamed-chunk-4-1.png)<!-- -->
 
 
 ```r
@@ -115,6 +115,6 @@ occupation %>%
        caption = "This figure uses TidyTuesday's data from February 16, 2021")
 ```
 
-![](TidyTuesday-Project-DV---February-21,-2021_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
+![](Figs/unnamed-chunk-5-1.png)<!-- -->
 
 
