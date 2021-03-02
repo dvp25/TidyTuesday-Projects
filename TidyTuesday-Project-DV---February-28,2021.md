@@ -71,6 +71,7 @@ industry_data_2 %>%
 ```
 
 ![](TidyTuesday-Project-DV---February-28,2021_files/figure-html/unnamed-chunk-3-1.png)<!-- -->
+![](TidyTuesdayFeb28_1.png)
 
 
 ```r
@@ -89,6 +90,7 @@ earn %>%
 ```
 
 ![](TidyTuesday-Project-DV---February-28,2021_files/figure-html/unnamed-chunk-4-1.png)<!-- -->
+![](TidyTuesdayFeb28_2.png)
 
 
 ```r
@@ -107,6 +109,7 @@ earn %>%
 ```
 
 ![](TidyTuesday-Project-DV---February-28,2021_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
+![](TidyTuesdayFeb28_3.png)
 
 
 ```r
@@ -126,4 +129,4 @@ earn %>%
 ```
 
 ![](TidyTuesday-Project-DV---February-28,2021_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
-
+![](TidyTuesdayFeb28_4.png)
